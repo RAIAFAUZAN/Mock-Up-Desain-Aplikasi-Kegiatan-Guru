@@ -29,12 +29,12 @@ Database: MySQL / PostgreSQL / MongoDB
 
 Autentikasi: JWT / OAuth
 
-## 🧭 Flowchart Sistem
+## 🧭 Db Diagram Sistem
 
-Berikut diagram alur aplikasi, dari login hingga proses cetak nilai:
+Berikut Db Diagram:
 
-<img src="kegiatan guru.svg" alt="Flowchart Aplikasi Kegiatan Guru" width="600">
+<img src="kegiatan guru.svg" alt="Db Diagram Aplikasi Kegiatan Guru" width="600">
 
-📌 *File flowchart tersedia dalam format SVG di folder /flowchart.*
+📌 *File Db Diagram tersedia dalam format SVG di folder /flowchart.*
 
 ---
