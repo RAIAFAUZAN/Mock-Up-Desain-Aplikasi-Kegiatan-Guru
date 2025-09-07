@@ -45,6 +45,6 @@ Berikut Tabel Dari Db Diagram:
 
 <img src="flowchart_kbm.svg" alt="Flowchart Aplikasi Kegiatan Guru" width="600">
 
-📌 *File Db Diagram tersedia dalam format SVG di folder /Flowchart.*
+📌 *File Flowchart tersedia dalam format SVG di folder /Flowchart.*
 
 ---
