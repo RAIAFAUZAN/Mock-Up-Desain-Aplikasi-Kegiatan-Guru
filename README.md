@@ -41,7 +41,7 @@ Berikut Tabel Dari Db Diagram:
 
 ## 🧭 Flowchart Sistem
 
-Berikut Tabel Dari Db Diagram:
+Berikut diagram alur aplikasi, dari login hingga selesai:
 
 <img src="flowchart_kbm.svg" alt="Flowchart Aplikasi Kegiatan Guru" width="600">
 
