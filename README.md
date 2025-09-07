@@ -1,9 +1,11 @@
 # Mock-Up-Desain-Aplikasi-Kegiatan-Guru
 
 📘 Aplikasi Kegiatan Guru
+
 Deskripsi
 Aplikasi untuk kegiatan guru sangat beragam dan bertujuan membantu guru dalam berbagai aspek, mulai dari manajemen kelas, pembuatan materi pembelajaran, hingga penilaian. Beberapa aplikasi populer termasuk Google Classroom untuk mengelola kelas virtual, Canva dan Powtoon untuk membuat presentasi dan video interaktif, Quizlet untuk membuat kartu belajar dan kuis, serta aplikasi berbasis AI seperti ClassPoint AI dan Gemini yang dapat membantu membuat slide dan mempersonalisasi materi. 
 ---
+
 Fitur Utama
 ✏️ Manajemen Jadwal: Membuat, mengedit, dan melihat jadwal kegiatan mengajar.
 
