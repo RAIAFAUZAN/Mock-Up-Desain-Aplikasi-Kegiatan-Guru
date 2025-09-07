@@ -33,7 +33,7 @@ Autentikasi: JWT / OAuth
 
 Berikut diagram alur aplikasi, dari login hingga proses cetak nilai:
 
-![Flowchart Aplikasi Kegiatan Guru]()
+<img src="kegiatan guru.svg" alt="Flowchart Aplikasi Kegiatan Guru" width="600">
 
 📌 *File flowchart tersedia dalam format SVG di folder /flowchart.*
 
