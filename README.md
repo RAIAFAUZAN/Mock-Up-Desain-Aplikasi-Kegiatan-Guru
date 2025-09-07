@@ -28,7 +28,7 @@ Backend: Node.js / Laravel / Django
 Database: MySQL / PostgreSQL / MongoDB
 
 Autentikasi: JWT / OAuth
----
+
 ## 🧭 Flowchart Sistem
 
 Berikut diagram alur aplikasi, dari login hingga proses cetak nilai:
