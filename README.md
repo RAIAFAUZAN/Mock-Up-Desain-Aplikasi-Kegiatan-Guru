@@ -31,10 +31,20 @@ Autentikasi: JWT / OAuth
 
 ## 🧭 Db Diagram Sistem
 
-Berikut Db Diagram:
+Berikut Tabel Dari Db Diagram:
 
 <img src="kegiatan guru.svg" alt="Db Diagram Aplikasi Kegiatan Guru" width="600">
 
-📌 *File Db Diagram tersedia dalam format SVG di folder /flowchart.*
+📌 *File Db Diagram tersedia dalam format SVG di folder /Db Diagram.*
+
+---
+
+## 🧭 Flowchart Sistem
+
+Berikut Tabel Dari Db Diagram:
+
+<img src="flowchart_kbm.svg" alt="Flowchart Aplikasi Kegiatan Guru" width="600">
+
+📌 *File Db Diagram tersedia dalam format SVG di folder /Flowchart.*
 
 ---
