@@ -4,6 +4,7 @@
 Deskripsi
 Aplikasi Kegiatan Guru adalah platform yang dirancang untuk membantu guru dalam merencanakan, mencatat, dan melaporkan kegiatan sehari-hari. Tujuannya agar proses administrasi menjadi lebih rapi, terstruktur, dan mudah diakses kapan saja.
 
+---
 Fitur Utama
 
 ✏️ Manajemen Jadwal: Membuat, mengedit, dan melihat jadwal kegiatan mengajar.
@@ -25,3 +26,14 @@ Backend: Node.js / Laravel / Django
 Database: MySQL / PostgreSQL / MongoDB
 
 Autentikasi: JWT / OAuth
+
+---
+## 🧭 Flowchart Sistem
+
+Berikut diagram alur aplikasi, dari login hingga proses cetak nilai:
+
+![Flowchart Aplikasi Kegiatan Guru](flowchart1.svg)
+
+📌 *File flowchart tersedia dalam format SVG di folder /flowchart.*
+
+---
